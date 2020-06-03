@@ -1,7 +1,7 @@
 Instructions
 ===
 
-1. Install (python)[https://www.python.org/ftp/python/3.8.3/python-3.8.3.exe]
+1. Install [python](https://www.python.org/ftp/python/3.8.3/python-3.8.3.exe)
  * You'll need to do advanced install
  * Install to `C:/Python38`,
  * tick `add to path`, 
